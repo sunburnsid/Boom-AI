@@ -1,1 +1,1 @@
-# Temple-of-Boom-AI
+# Boom-AI
